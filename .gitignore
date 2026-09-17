@@ -1,0 +1,10 @@
+# Dependencies & builds
+node_modules/
+dist/
+out/
+*.vsix
+*.tsbuildinfo
+
+# OS noise
+.DS_Store
+Thumbs.db
